@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "models": [
+    {
+      "file": "kenney-crate-strong.glb",
+      "replacesProp": "crate",
+      "source": "https://kenney.nl/assets/platformer-kit (crate-strong)",
+      "license": "CC0 1.0",
+      "attribution": "Kenney (www.kenney.nl), optional for CC0",
+      "grayscale": true,
+      "tint": "#a0724a"
+    },
+    {
+      "file": "kenney-sedan.glb",
+      "replacesProp": "car",
+      "source": "https://kenney.nl/assets/car-kit (sedan)",
+      "license": "CC0 1.0",
+      "attribution": "Kenney (www.kenney.nl), optional for CC0",
+      "rotY": 180,
+      "fit": "stretch",
+      "grayscale": true,
+      "usePropColor": true
+    },
+    {
+      "file": "kenney-van.glb",
+      "replacesProp": "van",
+      "source": "https://kenney.nl/assets/car-kit (van)",
+      "license": "CC0 1.0",
+      "attribution": "Kenney (www.kenney.nl), optional for CC0",
+      "rotY": 180,
+      "fit": "stretch",
+      "grayscale": true,
+      "usePropColor": true
+    },
+    {
+      "file": "kenney-shipping-container-a.glb",
+      "replacesProp": "container",
+      "source": "https://kenney.nl/assets/city-kit-industrial (shipping-container-a)",
+      "license": "CC0 1.0",
+      "attribution": "Kenney (www.kenney.nl), optional for CC0",
+      "rotY": 90,
+      "grayscale": true,
+      "usePropColor": true
+    },
+    {
+      "file": "kenney-dumpster-closed.glb",
+      "replacesProp": "dumpster",
+      "source": "https://kenney.nl/assets/retro-urban-kit (detail-dumpster-closed)",
+      "license": "CC0 1.0",
+      "attribution": "Kenney (www.kenney.nl), optional for CC0",
+      "rotY": 90,
+      "grayscale": true,
+      "tint": "#5d8a6c"
+    },
+    {
+      "file": "kenney-barrier-type-a.glb",
+      "replacesProp": "barrier",
+      "source": "https://kenney.nl/assets/retro-urban-kit (detail-barrier-type-a)",
+      "license": "CC0 1.0",
+      "attribution": "Kenney (www.kenney.nl), optional for CC0",
+      "fit": "stretch"
+    },
+    {
+      "file": "kenney-desk.glb",
+      "replacesProp": "desk",
+      "source": "https://kenney.nl/assets/furniture-kit (desk)",
+      "license": "CC0 1.0",
+      "attribution": "Kenney (www.kenney.nl), optional for CC0",
+      "fit": "stretch",
+      "grayscale": true,
+      "tint": "#6b4a33"
+    },
+    {
+      "file": "kenney-lounge-sofa.glb",
+      "replacesProp": "sofa",
+      "source": "https://kenney.nl/assets/furniture-kit (loungeSofa)",
+      "license": "CC0 1.0",
+      "attribution": "Kenney (www.kenney.nl), optional for CC0",
+      "fit": "stretch",
+      "grayscale": true,
+      "tint": "#6a2a2e"
+    },
+    {
+      "file": "kenney-bookcase-closed-wide.glb",
+      "replacesProp": "cabinet",
+      "source": "https://kenney.nl/assets/furniture-kit (bookcaseClosedWide)",
+      "license": "CC0 1.0",
+      "attribution": "Kenney (www.kenney.nl), optional for CC0",
+      "rotY": 90,
+      "grayscale": true,
+      "tint": "#8a9098"
+    }
+  ]
+}
