@@ -6,6 +6,9 @@ headquarters' trust and your own conscience while collecting evidence across fiv
 
 All player-facing text is Turkish. Code and technical docs are English.
 
+**Play in the browser:** https://emirhanculcu86354.github.io/kostebek/ (built and deployed to
+GitHub Pages by `.github/workflows/deploy.yml` on every push to `main`).
+
 ## Run it
 
 ```bash
